@@ -37,81 +37,12 @@ def send_email(to_email, subject, body, attachment_path, sender_email, sender_pa
         print(f"Failed to send email to {to_email}: {e}")
 
 # Sender details
-sender_email = "ashishmpi00012@gmail.com"
-sender_password = "jfwy omgq gyca nrtd"
+sender_email = "email"
+sender_password = "your-password"
 
 # Email details
 recipients = [
-    # "careers@appsteamtechnologies.com",
-    # "sandhyav9823@gmail.com",
-    # "ankit.malik@vlinkinfo.com",
-    # "muskan.tiwari@myvirtualteams.com",
-    # "sujana.s@twsol.com",
-    # "kshitij.wairagade@techbulls.com",
-    # "prakiran@teksystems.com",
-    # "sarvagya.upadyay@mphatek.com",
-    # "laxmanchavan014@gmail.com",
-    # "parul.c@otomeyt.ai",
-    # "aswinirout@kpmg.com",
-    # "deepak.salwan@stova.io",
-    # "trupti@jforcesolutions.com",
-    # "neha.gupta02@irissoftware.com",
-    # "sahla.rahim@antal.com",
-    # "taniya.cn@ellow.io",
-    # "mkushwaha@teksystems.com",
-    # "vinay@tanishasystems.com",
-    # "sranganathan11494@altimetrik.com",
-    # "lokesh.b@eslabs.net",
-    # "yuvraj.kumawat@impetus.com",
-    # "nandamath097@gmail.com",
-    # "nanda.n@tidalsoftt.com",
-    # "soumya@qpactsolutions.com",
-    # "rani@srivensys.com",
-    # "arvind@technodeedsolutions.com",
-    # "bshanspal@gmail.com",
-    # "swapna.sayagoni@appitsoftware.com",
-    # "contact@techstack.se",
-    # "deepika.sharma@nisvan.co.in",
-    # "srishti@rediansoftware.com",
-    # "talent@rediansoftware.com",
-    # "anoop.pv@njclabs.com",
-    # "ramadevi.gedela@vantagerms.com",
-    # "himanshu.jain@nlbtech.in",
-    # "talentsupport@fastlinejobs.net",
-    # "srajendran@sageitinc.net",
-    # "panpatidar180@gmail.com",
-    # "poojyata@peoplestaff.in",
-    # "santosh.kumar@amanziconsulting.co.in",
-    # "supriya.waghmare@bluethinkinc.com",
-    # "hr@durapid.com",
-    # "swati.gaur@hirextream.com",
-    # "recruitment@elpopulo.com",
-    # "pavithra.s@xforia.com",
-    # "sofia.safa@sonata-software.com",
-    # "harshitha.krishnan@careernet.in",
-    # "rajiv.singh@encora.com",
-    # "bansalitadvisory@gmail.com",
-    # "aisha.nurbasha@sysintelli.com",
-    # "talent.acquisition@qpactsolutions.com",
-    # "sharmistha.d@twsol.com",
-    # "madhu@exceltechcomputers.com",
-    # "amrita.kumari@hnmsolutions.eu",
-    # "alphabitinfoway2018@gmail.com",
-    # "rmishra@deqode.com",
-    # "shalini.garya@centific.com",
-    # "madhavi.naik@alikethoughts.com",
-    # "srivastava.19.acs@gmail.com",
-    # "gaurav.saxena@zodiac-solutions.com",
-    # "soham.barot@spec-india.com",
-    # "praveen.tmvus@gmail.com",
-    # "nehaljain@msgclub.co.in",
-    # "subharanjan@infininza.com",
-    # "boomika.s@xforia.com",
-    # "jyothi.a@episdata.com",
-    # "sakthivel.mahendran@wipro.com",
-    # "mishratanu2222@gmail.com"
-
-    "abhisheksinha5066@gmail.com"
+""
 ]
 
 subject = "Immediate Joiner | Java Full Stack Developer | Backend & Frontend Expertise"
